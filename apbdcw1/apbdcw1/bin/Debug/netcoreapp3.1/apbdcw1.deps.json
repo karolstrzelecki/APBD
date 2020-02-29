@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "apbdcw1/1.0.0": {
+        "runtime": {
+          "apbdcw1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apbdcw1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

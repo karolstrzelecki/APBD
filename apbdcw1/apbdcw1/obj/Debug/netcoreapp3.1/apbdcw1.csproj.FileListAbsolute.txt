@@ -1,0 +1,10 @@
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/obj/Debug/netcoreapp3.1/apbdcw1.csprojAssemblyReference.cache
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/obj/Debug/netcoreapp3.1/apbdcw1.AssemblyInfoInputs.cache
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/obj/Debug/netcoreapp3.1/apbdcw1.AssemblyInfo.cs
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/bin/Debug/netcoreapp3.1/apbdcw1.deps.json
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/bin/Debug/netcoreapp3.1/apbdcw1.runtimeconfig.json
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/bin/Debug/netcoreapp3.1/apbdcw1.runtimeconfig.dev.json
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/bin/Debug/netcoreapp3.1/apbdcw1.dll
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/bin/Debug/netcoreapp3.1/apbdcw1.pdb
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/obj/Debug/netcoreapp3.1/apbdcw1.dll
+/Volumes/Szkoła/APBD/apbdcw1/apbdcw1/obj/Debug/netcoreapp3.1/apbdcw1.pdb
